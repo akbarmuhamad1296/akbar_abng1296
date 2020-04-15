@@ -1,5 +1,4 @@
-# akbar_abng1296
-projectjava2
+
 Nama :
       Muhamad Akbar
 Kelas :
